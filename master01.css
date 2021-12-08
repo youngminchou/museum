@@ -1,0 +1,133 @@
+*{margin: 0; padding: 0; text-decoration: none;}
+
+header{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+header nav ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header nav ul li{
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+header nav ul li a{
+  color: #000000;
+  letter-spacing: -0.05em;
+  transition: 0.2s;
+}
+header nav ul li a:hover{
+  color: #ffffff;
+  font-size: 1.4em;
+  transition: 0.2s;
+}
+
+
+
+
+.logo{
+  margin-top: 36px;
+  margin-bottom: 36px;
+  margin-left: 385px;
+}
+
+.menu1{margin-left: 529px;}
+.line1{margin-left: 25px;}
+.menu2{margin-left: 25px;}
+.line2{margin-left: 25px;}
+.menu3{margin-left: 25px;}
+
+
+
+section{
+  width: 1920px;
+  height: 1866px;
+  background-color: black;
+  background-size: contain;
+}
+
+
+.first{
+  margin-top: 0px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text{
+  height: 262px;
+  list-style: none;
+}
+
+.main{
+  margin-left: 293px;
+  margin-top: 123px;
+}
+
+.block{
+  width: 138px;
+  height: 310px;
+  margin-left: 601px;
+  margin-top:  -164px;
+  background-color: white;
+  background-size: contain;
+}
+
+.name1{
+  margin-left: 324px;
+}
+
+.name2{
+  margin-top: -10px;
+  margin-left: 324px;
+}
+
+
+
+.block2{
+  width: 138px;
+  height: 312px;
+  margin-left: 601px;
+  margin-top:  -5px;
+  background-color: white;
+  background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.copy{
+  display: block;
+  height: 100px;
+  margin-left: 1438px;
+}
+
+.copy img{
+  margin-top: 50px;
+}

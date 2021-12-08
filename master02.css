@@ -1,0 +1,248 @@
+*{margin: 0; padding: 0; text-decoration: none;}
+
+header{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+header nav ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header nav ul li{
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+header nav ul li a{
+  color: #000000;
+  letter-spacing: -0.05em;
+  transition: 0.2s;
+}
+header nav ul li a:hover{
+  color: #ffffff;
+  font-size: 1.4em;
+  transition: 0.2s;
+}
+
+
+
+
+
+
+.logo{
+  margin-top: 36px;
+  margin-bottom: 36px;
+  margin-left: 385px;
+}
+
+.menu1{margin-left: 529px;}
+.line1{margin-left: 25px;}
+.menu2{margin-left: 25px;}
+.line2{margin-left: 25px;}
+.menu3{margin-left: 25px;}
+
+section{
+  width: 1920px;
+  height: 1510px;
+  background-color: black;
+  background-size: contain;
+}
+
+
+
+
+
+
+
+.first{
+  margin-top: 0px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text{
+  height: 262px;
+  list-style: none;
+}
+
+.main{
+  margin-left: 293px;
+  margin-top: 123px;
+}
+
+.block{
+  width: 138px;
+  height: 262px;
+  margin-left: 601px;
+  margin-top:  -164px;
+  background-color: white;
+  background-size: contain;
+}
+
+
+
+
+
+
+
+
+.second{
+  margin-top: 0px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ss21{
+  height: 400px;
+  float: left;
+  display: flex;
+  justify-content:  center;
+  align-items: center;
+}
+
+.wss_text{
+  margin-top: 0px;
+  margin-left: 300px;
+}
+
+.block2{
+  width: 138px;
+  height: 418px;
+  margin-top:  0px;
+  margin-left: 56px;
+  background-color: white;
+  background-size: contain;
+}
+
+.wooss1{
+  margin-top:0px;
+  margin-left: 66px;
+}
+
+.wooss2{
+  margin-top:0px;
+  margin-left: 10.3px;
+}
+
+.wooss3{
+  margin-top:0px;
+  margin-left: 10.3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.third{
+  margin-top: 0px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fw21{
+  height: 830px;
+  float: left;
+  display: flex;
+  justify-content:  center;
+  align-items: center;
+}
+
+.wfw_text{
+  margin-top: 0px;
+  margin-left: 300px;
+}
+
+.block3{
+  width: 138px;
+  height: 867px;
+  margin-top:  0px;
+  margin-left: 56px;
+  background-color: white;
+  background-size: contain;
+}
+
+.woofw1{
+  margin-top:0px;
+  margin-left: 66px;
+}
+
+.woofw2{
+  margin-top:0px;
+  margin-left: 10.3px;
+}
+
+.woofw3{
+  margin-top:0px;
+  margin-left: 10.3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.copy{
+  display: block;
+  height: 100px;
+  margin-left: 1438px;
+}
+
+.copy img{
+  margin-top: 50px;
+}
